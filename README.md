@@ -27,7 +27,7 @@ Ferramenta de Consultoria: Servir como uma referência para conceitos estatísti
 Um chatbot de inteligência artificial para responder perguntas básicas de estatística. Ideal para consultas rápidas ou dúvidas sobre os conceitos.
 
 - index.py: 
-O ponto de entrada do projeto, responsável por carregar a interface principal e integrar as funcionalidades de estatística descritiva e inferencial.
+Interface do projeto, desenvolvida para mostrar os resultados dos cálculos de forma visual e interativa
 
 - mvp.py: 
 O ponto de entrada do projeto, responsável por carregar a interface principal e integrar as funcionalidades de estatística descritiva e inferencial.
