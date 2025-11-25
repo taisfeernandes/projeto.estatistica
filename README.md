@@ -1,6 +1,8 @@
 ## Projeto de Estatística - Análise Descritiva e Inferencial
 Este repositório contém um projeto de análise estatística desenvolvido em Python. O objetivo é fornecer uma ferramenta educacional que aborda tanto estatísticas descritivas quanto inferenciais, com uma aplicação prática e visual para facilitar a compreensão dos conceitos.
 
+Acessar app https://estatistica-app.streamlit.app/
+
 ## Sumário
 - Introdução
 - Objetivos
@@ -28,7 +30,7 @@ Um chatbot de inteligência artificial para responder perguntas básicas de esta
 O ponto de entrada do projeto, responsável por carregar a interface principal e integrar as funcionalidades de estatística descritiva e inferencial.
 
 - mvp.py: 
-Interface do projeto, desenvolvida para mostrar os resultados dos cálculos de forma visual e interativa.
+O ponto de entrada do projeto, responsável por carregar a interface principal e integrar as funcionalidades de estatística descritiva e inferencial.
 
 - quiz.py: 
 Script que apresenta um quiz sobre conceitos estatísticos para reforçar o aprendizado do usuário.
@@ -84,7 +86,7 @@ cd projeto-estatistica
 ## Execução e Uso
 Executando a Interface Principal
 Para iniciar a interface do projeto e explorar os cálculos estatísticos:
-`python index.py
+`python mvp.py
 `
 
 ## Executando o Quiz de Estatística
